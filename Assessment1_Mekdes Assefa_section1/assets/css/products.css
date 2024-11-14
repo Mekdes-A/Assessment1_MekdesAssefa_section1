@@ -10,7 +10,6 @@ body{
 header{
     background-color:#d9eed9;
     text-align: center;
-    
 }
 header h1{
     padding-top: 20px;
@@ -41,8 +40,6 @@ nav{
     margin-left: 100px;
     margin-bottom: 30px;
 }
-
-
 
 
 .product-list{
@@ -77,10 +74,6 @@ nav{
 .price{
     margin-top: 10px;
 }
-
-
-
-
 
 
 footer{
