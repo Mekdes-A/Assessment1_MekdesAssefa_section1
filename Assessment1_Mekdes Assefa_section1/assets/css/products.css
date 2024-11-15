@@ -71,6 +71,7 @@ nav {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
     text-align: center;
+    margin-left: 40px;
 }
 
 .product h2 {
@@ -80,6 +81,9 @@ nav {
 
 .product p {
     margin-bottom: 10px;
+}
+.first-article{
+    margin-bottom: 35px;
 }
 
 .price {
