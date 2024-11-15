@@ -43,9 +43,13 @@ nav {
     justify-content: center;
 }
 
-.sec {
-    margin: 20px 0;
-    text-align: center;
+main {
+    
+    margin-bottom: 150px ;
+}
+.sec{
+    margin-bottom: 40px;
+    margin-top: 40px;
 }
 
 .product-list {
@@ -66,12 +70,14 @@ nav {
 .product {
     width: 100%;
     max-width: 300px;
+    min-height: 400px;
     background-color: white;
     padding: 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
     text-align: center;
-    margin-left: 40px;
+    margin-right: 40px;
+
 }
 
 .product h2 {
@@ -82,9 +88,7 @@ nav {
 .product p {
     margin-bottom: 10px;
 }
-.first-article{
-    margin-bottom: 35px;
-}
+
 
 .price {
     margin-top: 10px;
@@ -119,4 +123,5 @@ footer p {
         text-align: left;
     }
 }
+
 
